@@ -108,6 +108,3 @@ Campus-Event-Registration-System/
 │   └── search.png
 │
 └── README.md
-
-## Hosted Website
-https://campusevent.infinityfree.me/
