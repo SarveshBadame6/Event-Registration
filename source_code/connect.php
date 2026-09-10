@@ -2,7 +2,7 @@
 
 $host = "sql204.infinityfree.com";
 $user = "if0_42804724";
-$password = "uCeEWAcCQsra";
+$password = "your_password";
 $database = "if0_42804724_campus_event";
 
 $conn = mysqli_connect(
